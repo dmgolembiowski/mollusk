@@ -3,7 +3,7 @@
 import argparse
 import builtins
 import os
-import pickle
+import dill
 import signal
 import socket
 import subprocess
